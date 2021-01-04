@@ -54,3 +54,13 @@ section {
     background-repeat: no-repeat;
     background-position: left;
 }
+#full-stack {
+    border-left: 7px solid;
+    border-image: linear-gradient( lightSalmon, tomato );
+    border-image-slice: 1;
+}
+#front-end {
+    border-left: 7px solid;
+    border-image: linear-gradient( blue, cyan);
+    border-image-slice: 1;
+}
