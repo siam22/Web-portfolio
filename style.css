@@ -58,9 +58,14 @@ section {
     border-left: 7px solid;
     border-image: linear-gradient( lightSalmon, tomato );
     border-image-slice: 1;
+    background-color: white;
 }
 #front-end {
     border-left: 7px solid;
     border-image: linear-gradient( blue, cyan);
     border-image-slice: 1;
+}
+footer p {
+    font-size: 12px;
+    text-align: center;
 }
