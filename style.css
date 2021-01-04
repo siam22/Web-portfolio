@@ -11,7 +11,7 @@ h2 {
 p {
     color: dimgray;
 }
-.name-highlight {
+.orange-highlight {
     color: orange;
 }
 .half-width {
@@ -38,4 +38,9 @@ section {
     padding: 10px 20px;
     border-radius: 5px;
     color: white;
+}
+.dream-area {
+    background-image: url("Images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
